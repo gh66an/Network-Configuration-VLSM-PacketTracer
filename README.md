@@ -1,5 +1,5 @@
 # Network-Configuration-VLSM-PacketTracer
-(![Topology](https://github.com/user-attachments/assets/a37fda52-8b46-4a14-8675-ebada76d8c76))
+![Topology](https://github.com/user-attachments/assets/a37fda52-8b46-4a14-8675-ebada76d8c76)
 
 ## Project Description
 This project demonstrates the design and configuration of a computer network using **Cisco Packet Tracer**, with the primary focus on **VLSM (Variable Length Subnet Masking)** to optimize IP address allocation. The network topology includes routers, switches, PCs, and servers, all configured to ensure full connectivity and functionality. Key services like **DNS** and **HTTP** have been set up, with static routing implemented across the network for efficient communication.
